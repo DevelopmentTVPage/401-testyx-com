@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Testyx"
+baseURL = "https:\/\/testyx.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "poop"
+
+[params]
+loginId = "1758904"
+subfolder = ""
